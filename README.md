@@ -2,7 +2,7 @@
 
 [//]: # (Image References)
 [automationgif]: ./readme/automation_sample.gif
-[automationgif1]: ./readme/automation_sample1.gif
+[automationgif1]: ./readme/automation_sample2.gif
 
 [![CircleCI](https://circleci.com/gh/JavonDavis/Wordpress-Automation-Ruby.svg?style=svg)](https://circleci.com/gh/JavonDavis/Wordpress-Automation-Ruby)
 
